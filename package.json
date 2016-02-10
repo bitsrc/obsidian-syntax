@@ -1,9 +1,9 @@
 {
-  "name": "obsidian-syntax",
+  "name": "obsidian-syntax-material-ui",
   "theme": "syntax",
   "version": "0.2.0",
-  "description": "A port of Notepad++'s obsidian theme",
-  "repository": "https://github.com/bitsrc/obsidian-syntax",
+  "description": "A mashup of Obsidian and An Old Hope syntax",
+  "repository": "https://github.com/InterestingJohn/obsidian-syntax-atom-ui",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
